@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+
+.error {
+  color: red;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul,li{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.active {
+  background-color: black;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+}

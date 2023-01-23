@@ -1,3 +1,3 @@
-import getData from './getData.js';
+import getData from "./getData.js";
 
 getData(1);
